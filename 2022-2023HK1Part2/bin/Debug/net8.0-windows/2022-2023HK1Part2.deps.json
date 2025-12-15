@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2022-2023HK1Part2/1.0.0": {
+        "runtime": {
+          "2022-2023HK1Part2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2022-2023HK1Part2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

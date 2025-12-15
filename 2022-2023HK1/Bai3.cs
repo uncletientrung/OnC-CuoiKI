@@ -26,7 +26,7 @@
 //            public void Logging()
 //            {
 //                //ShowSerect(); // Static ảnh hưởng đến cách gọi không ảnh hưởng đến gọi tử đâu
-//                    // Lỗi gì ShowSerect là non-static
+//                    // Lỗi zì ShowSerect là non-static
 //                DoSomeThing("Code Csharp"); 
                 
 //            }
