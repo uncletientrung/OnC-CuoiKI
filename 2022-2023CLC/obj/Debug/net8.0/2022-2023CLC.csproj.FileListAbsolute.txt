@@ -1,0 +1,15 @@
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.AssemblyInfoInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.AssemblyInfo.cs
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.csproj.CoreCompileInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.sourcelink.json
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\bin\Debug\net8.0\2022-2023CLC.exe
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\bin\Debug\net8.0\2022-2023CLC.deps.json
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\bin\Debug\net8.0\2022-2023CLC.runtimeconfig.json
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\bin\Debug\net8.0\2022-2023CLC.dll
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\bin\Debug\net8.0\2022-2023CLC.pdb
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.dll
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\refint\2022-2023CLC.dll
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.pdb
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\2022-2023CLC.genruntimeconfig.cache
+D:\BT_CSARP\OnC-CuoiKI\2022-2023CLC\obj\Debug\net8.0\ref\2022-2023CLC.dll
