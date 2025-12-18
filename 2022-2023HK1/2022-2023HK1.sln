@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2022-2023HK1Part2", "..\202
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2022-2023CLC", "..\2022-2023CLC\2022-2023CLC.csproj", "{35563249-7343-4EA6-8090-FBD09555E449}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023-2024HK1", "..\2023-2024HK1\2023-2024HK1.csproj", "{0359E505-A411-46C5-9667-5503D9203337}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{35563249-7343-4EA6-8090-FBD09555E449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35563249-7343-4EA6-8090-FBD09555E449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35563249-7343-4EA6-8090-FBD09555E449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0359E505-A411-46C5-9667-5503D9203337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0359E505-A411-46C5-9667-5503D9203337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0359E505-A411-46C5-9667-5503D9203337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0359E505-A411-46C5-9667-5503D9203337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
