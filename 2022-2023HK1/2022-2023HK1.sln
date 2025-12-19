@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023-2024HK1Cau2", "..\2023
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023-2024HK1Cau3", "..\2022-2023HK1Cau3\2023-2024HK1Cau3.csproj", "{793DE501-C8EE-4244-AAE0-AC068728888A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024-2025HK1CLC", "..\2024-2025HK1CLC\2024-2025HK1CLC.csproj", "{BF316A23-F59A-44A5-9087-88022D839D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{793DE501-C8EE-4244-AAE0-AC068728888A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{793DE501-C8EE-4244-AAE0-AC068728888A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{793DE501-C8EE-4244-AAE0-AC068728888A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF316A23-F59A-44A5-9087-88022D839D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF316A23-F59A-44A5-9087-88022D839D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF316A23-F59A-44A5-9087-88022D839D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF316A23-F59A-44A5-9087-88022D839D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
