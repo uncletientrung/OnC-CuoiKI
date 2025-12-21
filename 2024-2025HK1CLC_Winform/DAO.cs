@@ -69,7 +69,7 @@ namespace _2024_2025HK1CLC_Winform
             }
             return result;
         }
-        public BindingList<OrderItem> getAllOrderItemLinQ()
+        public BindingList<OrderItem> getAllOrderItemLinQ() // Select *
         {
             using (var db = new ConnectLinq())
             {
@@ -77,7 +77,7 @@ namespace _2024_2025HK1CLC_Winform
                 return new BindingList<OrderItem>(list);
             }
         }
-        public int removeOrderItem(int maOrderItem)
+        public int removeOrderItem(int maOrderItem) // Remove
         {
             int result = 0;
             using (var db = new ConnectLinq())
@@ -88,7 +88,7 @@ namespace _2024_2025HK1CLC_Winform
             }
             return result;
         }
-        public int addOrderItem(OrderItem item)
+        public int addOrderItem(OrderItem item) // Add
         {
             int result = 0;
             using (var db = new ConnectLinq())
@@ -98,7 +98,7 @@ namespace _2024_2025HK1CLC_Winform
             }
             return result;
         }
-        public int updateOrderItem(OrderItem itemupdate)
+        public int updateOrderItem(OrderItem itemupdate) // Update
         {
             int result = 0;
             using (var db = new ConnectLinq())
