@@ -23,19 +23,20 @@ public class Circle : Shape
     public override double GetArea() { return Math.PI * Radius * Radius; }
 }
 
-class Program
-{
-    static void Main()
-    {
-        List<Shape> shapes = new List<Shape>
-        {
-            new Rectangle("Hình chữ nhật", 5, 10),
-            new Circle("Hình tròn", 4)
-        };
+// Bài này sai vì Main nằm bên ngoài class
+//class Program
+//{
+//static void Main()
+//    {
+//        List<Shape> shapes = new List<Shape>
+//        {
+//            new Rectangle("Hình chữ nhật", 5, 10),
+//            new Circle("Hình tròn", 4)
+//        };
 
-        foreach (Shape shape in shapes)
-        {
-            Console.WriteLine($"{shape.Name} - Diện tích: {shape.GetArea():0.00}");
-        }
-    }
-}
+//        foreach (Shape shape in shapes)
+//        {
+//            Console.WriteLine($"{shape.Name} - Diện tích: {shape.GetArea():0.00}");
+//        }
+//    }
+//}
