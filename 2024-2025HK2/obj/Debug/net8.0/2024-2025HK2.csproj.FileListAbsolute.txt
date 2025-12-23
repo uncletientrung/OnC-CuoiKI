@@ -1,0 +1,15 @@
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\bin\Debug\net8.0\2024-2025HK2.exe
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\bin\Debug\net8.0\2024-2025HK2.deps.json
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\bin\Debug\net8.0\2024-2025HK2.runtimeconfig.json
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\bin\Debug\net8.0\2024-2025HK2.dll
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\bin\Debug\net8.0\2024-2025HK2.pdb
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.AssemblyInfoInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.AssemblyInfo.cs
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.csproj.CoreCompileInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.sourcelink.json
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.dll
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\refint\2024-2025HK2.dll
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.pdb
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\2024-2025HK2.genruntimeconfig.cache
+D:\BT_CSARP\OnC-CuoiKI\2024-2025HK2\obj\Debug\net8.0\ref\2024-2025HK2.dll
