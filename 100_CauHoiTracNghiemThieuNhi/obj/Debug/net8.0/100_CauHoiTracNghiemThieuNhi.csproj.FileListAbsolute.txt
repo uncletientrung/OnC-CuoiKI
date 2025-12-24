@@ -1,0 +1,15 @@
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.AssemblyInfoInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.AssemblyInfo.cs
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.csproj.CoreCompileInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.sourcelink.json
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\bin\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.exe
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\bin\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.deps.json
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\bin\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.runtimeconfig.json
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\bin\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.dll
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\bin\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.pdb
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.dll
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\refint\100_CauHoiTracNghiemThieuNhi.dll
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.pdb
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\100_CauHoiTracNghiemThieuNhi.genruntimeconfig.cache
+D:\BT_CSARP\OnC-CuoiKI\100_CauHoiTracNghiemThieuNhi\obj\Debug\net8.0\ref\100_CauHoiTracNghiemThieuNhi.dll

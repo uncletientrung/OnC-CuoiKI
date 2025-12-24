@@ -46,7 +46,7 @@ namespace _2024_2025HK1_Winform
             listLoai = hangBUS.getAllListLoai();
             foreach(DataRow row in listLoai.Rows)
             {
-                cbb.Items.Add(row["TenLoai"].ToString());
+                cbb.Items.Add(row[1]);
             }
             cbb.SelectedIndex = 0;
         }
