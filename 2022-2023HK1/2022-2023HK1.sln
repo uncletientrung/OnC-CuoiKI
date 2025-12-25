@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024-2025HK2_Winform", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100_CauHoiTracNghiemThieuNhi", "..\100_CauHoiTracNghiemThieuNhi\100_CauHoiTracNghiemThieuNhi.csproj", "{97B770D9-CA6A-4909-90CE-F219D6B2A84C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuatToan", "..\ThuatToan\ThuatToan.csproj", "{AFAF83D6-EA8D-45EA-AB86-4E63540E642A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{97B770D9-CA6A-4909-90CE-F219D6B2A84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97B770D9-CA6A-4909-90CE-F219D6B2A84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97B770D9-CA6A-4909-90CE-F219D6B2A84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAF83D6-EA8D-45EA-AB86-4E63540E642A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAF83D6-EA8D-45EA-AB86-4E63540E642A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAF83D6-EA8D-45EA-AB86-4E63540E642A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAF83D6-EA8D-45EA-AB86-4E63540E642A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2024-2025HK1CLC_Winform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+905e81c7668f56862e70d132b00df1fd89e5cda4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ea069452b01197d8a758969462da52728db9ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("2024-2025HK1CLC_Winform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2024-2025HK1CLC_Winform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
