@@ -1,0 +1,17 @@
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\bin\Debug\net8.0-windows\ThuatToan.exe
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\bin\Debug\net8.0-windows\ThuatToan.deps.json
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\bin\Debug\net8.0-windows\ThuatToan.runtimeconfig.json
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\bin\Debug\net8.0-windows\ThuatToan.dll
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\bin\Debug\net8.0-windows\ThuatToan.pdb
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.Form1.resources
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.csproj.GenerateResource.cache
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.AssemblyInfoInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.AssemblyInfo.cs
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.csproj.CoreCompileInputs.cache
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.sourcelink.json
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.dll
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\refint\ThuatToan.dll
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.pdb
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ThuatToan.genruntimeconfig.cache
+D:\BT_CSARP\OnC-CuoiKI\ThuatToan\obj\Debug\net8.0-windows\ref\ThuatToan.dll

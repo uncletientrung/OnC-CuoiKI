@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThuatToan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ea069452b01197d8a758969462da52728db9ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef8d46106c562442f52022a6f045ab14f673b53f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThuatToan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThuatToan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
